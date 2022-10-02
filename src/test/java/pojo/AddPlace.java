@@ -12,6 +12,9 @@ public class AddPlace {
 	private Location location;
 	private List<String> types;
 	
+	
+	
+	
 	public int getAccuracy() {
 		return accuracy;
 	}

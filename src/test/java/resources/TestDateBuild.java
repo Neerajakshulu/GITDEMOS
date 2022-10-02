@@ -11,6 +11,7 @@ public class TestDateBuild {
 		AddPlace p=new AddPlace();
 		p.setAccuracy(50);
 		p.setAddress(address);
+		
 		p.setLanguage(language);
 		p.setPhone_number("9123456780");
 		p.setWebsite("www.gmail.com");
